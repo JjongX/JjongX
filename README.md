@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JjongX.JjongX" />
+GE<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JjongX.JjongX" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jong+Ha+Shin!;" style="filter: drop-shadow(2px 2px 4px #000000);" />
@@ -24,8 +24,9 @@ This is the working version of my GitHub profile.
 
 ## Skills
 - **Python**, Java, R, **SQL**, **Bash**
+- **OpenAI**, **Gemma**, **LangChain**, Chroma
 - **AWS**, **Terraform**, **Docker**, **Git**
-- **OpenAI**, **LangChain**, Chroma, **Streamlit**, FastAPI
+- **Streamlit**, FastAPI
 - **Notion**, Confluence, Jira
 
 ## Education
