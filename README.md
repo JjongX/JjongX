@@ -23,9 +23,10 @@ This is the working version of my GitHub profile.
 </div>
 
 ## Skills
-- Python, Java, Bash
-- Docker, Nextflow
-- Git, Confluence, Jira
+- **Python**, Java, R, **SQL**, **Bash**
+- **AWS**, **Terraform**, **Docker**, **Git**
+- **OpenAI**, **LangChain**, Chroma, **Streamlit**, FastAPI
+- **Notion**, Confluence, Jira
 
 ## Education
 - University of Washington, Seattle, USA 
