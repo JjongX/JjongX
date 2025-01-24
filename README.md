@@ -23,11 +23,11 @@ This is the working version of my GitHub profile.
 </div>
 
 ## Skills
-- **Python**, Java, R, **SQL**, **Bash**
-- **OpenAI**, **Gemma**, **LangChain**, Chroma
-- **AWS**, **Terraform**, **Docker**, **Git**
-- **Streamlit**, FastAPI
-- **Notion**, Confluence, Jira
+- **Programming**: **Python**, Java, R, **SQL**, **Bash**
+- **AI&ML**: **OpenAI**, **Gemma**, **LangChain**, Chroma, **TensorFlow**
+- **Cloud&DevOps**: **AWS**, **Terraform**, **Docker**, **Git**
+- **Framework**: **Streamlit**, FastAPI
+- **Collaboration**: **Notion**, Confluence, Jira
 
 ## Education
 - University of Washington, Seattle, USA 
