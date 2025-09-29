@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="font-size: 16px;">
-A passionate corporate strategist and bioinformatician/data scientist from Korea.
+A passionate corporate strategist and AI engineer/data scientist from Korea.
 </h3>
 
 <div align="center">
