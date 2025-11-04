@@ -5,14 +5,12 @@
 </h1>
 
 <h3 align="center" style="font-size: 16px;">
-A passionate corporate strategist and AI engineer/data scientist from Korea.
+A passionate corporate technology strategist and AI engineer from Korea.
 </h3>
 
 <div align="center">
  
 🏢 I’m currently working on **Macrogen, INC** in Technology Strategy office.
-
-This is the working version of my GitHub profile.
 
 </div>
  
