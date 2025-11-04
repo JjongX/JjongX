@@ -24,7 +24,7 @@ This is the working version of my GitHub profile.
 
 ## Skills
 - **Programming**: **Python**, Java, R, **SQL**, **Bash**
-- **AI&ML**: **OpenAI**, **Gemma**, **LangChain**, Chroma, **TensorFlow**
+- **AI&ML**: **OpenAI**, **Gemma**, **LangChain**, **LangGraph**, Chroma, **TensorFlow**
 - **Cloud&DevOps**: **AWS**, **Terraform**, **Docker**, **Git**
 - **Framework**: **Streamlit**, FastAPI
 - **Collaboration**: **Notion**, Confluence, Jira
