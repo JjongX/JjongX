@@ -29,5 +29,5 @@ A passionate corporate technology strategist and AI engineer from Korea.
 
 ## Education
 - University of Washington, Seattle, USA 
-- New Covenant Christian School, USA
+- New Covenant Christian School, PA, USA
 - Saint Paul American School, Clark, Philippines
