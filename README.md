@@ -21,9 +21,9 @@ A passionate corporate technology strategist and AI engineer from Korea.
 </div>
 
 ## Skills
-- **Programming** - **Python**, Java, R, **SQL**, **Bash**
+- **Programming** - **Python**, R, **SQL**, **Bash**
 - **AI & ML** - **LangChain**, **LangGraph**, Chroma, **OpenAI**, Gemini, Gemma, **TensorFlow**
-- **Cloud & DevOps** - **AWS**, **Terraform**, **Docker**, **Nextflow**, GitHub Actions
+- **Cloud & DevOps** - **AWS**, Azure, **Terraform**, **Docker**, **Nextflow**, GitHub Actions
 - **Frameworks** - **FastAPI**, **Streamlit** 
 - **Collaboration** - **Notion**, Confluence, Jira
 
